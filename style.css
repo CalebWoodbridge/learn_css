@@ -10,3 +10,11 @@ div {
 div a {
   color: green;
 }
+
+#exec-bio {
+  background-color: lightgray;
+}
+
+.bio-box {
+  border: 1px solid black;
+}
