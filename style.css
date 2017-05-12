@@ -1,20 +1,22 @@
 
+/* GLOBAL STYLES */
 a {
   color: red;
 }
 
-div {
-  border: 1px solid black;
-}
-
-div a {
-  color: green;
-}
-
-#exec-bio {
-  background-color: lightgray;
-}
+/* BIO STYLES */
 
 .bio-box {
   border: 1px solid black;
 }
+
+.bio-copy a {
+  color: green;
+}
+
+/* SOCIAL STYLES */
+
+.social-link {
+  color: blue;
+}
+
